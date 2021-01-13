@@ -1,0 +1,99 @@
+.G {
+    font-family: 'VT323', monospace;
+    font-size: 25px;
+    color:gold;
+}
+
+.S {
+    color: gold;
+    font-family: 'Big Shoulders Inline Text', cursive;
+    font-size: 20px;
+}
+
+.M {
+    font-size: 40px;
+    font-family: 'Ceviche One', cursive;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h3 {
+    color: lime;
+    font-family: 'Bebas Neue', cursive;
+}
+
+p {
+    color: silver;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+
+.B {
+    font-family: 'Syne Mono', monospace;
+    color: gold;
+    font-size: 25px;
+
+}
+
+a {
+    color: lime;
+}
+
+a:link {
+    color: lime;
+}
+
+a:hover {
+    color: silver;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
+
+.red {
+    color: #ff0000;
+    font-size: 25px;
+}
+
+.silver {
+    color: silver;
+    font-size: 25px;
+}
+
+.green {
+    color: gold;
+    font-size: 25px;
+}
+
+h3 {
+    text-align: center;
+    border: 3px solid green;
+}
+
+.center {
+    text-align: center;
+    color: gold;
+}
+
+ul {
+    font-size: 20px;
+    text-align: center;
+    width: 65px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
